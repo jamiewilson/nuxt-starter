@@ -1,0 +1,14 @@
+---
+title: Nuxt Starter
+description: A simple starter for Nuxt 4 projects.
+---
+
+::page-header 
+# {{title}}
+::
+
+{{description}}
+
+## Description
+
+This is a paragraph with **bold** and _italic_ text.
